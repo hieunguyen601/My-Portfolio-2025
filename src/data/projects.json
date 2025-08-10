@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Recipes Finder Website",
+    "imageSrc": "projects/RecipeFinderWebsite.jpg",
+    "description": "The layout is clean and focuses on helping people quickly find and explore different recipes.",
+    "skills": ["HTML", "CSS", "JavaScript", "APIs"],
+    "demo": "https://hieunguyen601.github.io/recipes-finder-website/",
+    "source": "https://github.com/hieunguyen601/recipes-finder-website?tab=readme-ov-file"
+  },
+  {
+    "title": "DigitalBank Landing Page",
+    "imageSrc": "projects/DigitalBankLandingPage.jpg",
+    "description": "It shows the main features, blog posts, and invite only sign up in a simple, easy to read way.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://hieunguyen601.github.io/digitalbank-landing-page-project/",
+    "source": "https://github.com/hieunguyen601/digitalbank-landing-page-project"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "Users can search for any city to view real time weather conditions including temperature, humidity, and wind speed.",
+    "skills": ["HTML", "CSS", "React", "Node", "APIs"],
+    "demo": "https://hieunguyen601.github.io/Weather-App-React-Project/",
+    "source": "https://github.com/hieunguyen601/Weather-App-React-Project?tab=readme-ov-file"
+  },
+  {
+    "title": "Notification Page",
+    "imageSrc": "projects/notificationPage.jpg",
+    "description": "Notification Page project is a front end web page that displays a list of user notifications in a clean, card style layout.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://hieunguyen601.github.io/notification-page/",
+    "source": "https://github.com/hieunguyen601/notification-page"
+  },
+  {
+    "title": "Advice Generator App",
+    "imageSrc": "projects/adviceGenerator.jpg",
+    "description": "This is a small web application that shows users random pieces of advice.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://hieunguyen601.github.io/Advice-generator-app/",
+    "source": "https://github.com/hieunguyen601/Advice-generator-app"
+  },
+  {
+    "title": "Music Player App",
+    "imageSrc": "projects/musicPlayer.png",
+    "description": "It is a web app built with HTML, CSS, React, and Node.js that allows users to play, pause, and navigate through songs.",
+    "skills": ["HTML", "CSS", "React", "Node"],
+    "demo": "https://github.com/hieunguyen601/Music-Player-React-Project",
+    "source": "https://github.com/hieunguyen601/notification-page"
+  }
+]

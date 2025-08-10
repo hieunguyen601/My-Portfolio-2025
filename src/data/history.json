@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Cashier and Barista",
+    "organisation": "Chicha San Chen",
+    "startDate": "March, 2025",
+    "endDate": "Present",
+    "experiences": ["Worked efficiently in a fast paced environment while ensuring drink quality and accuracy.", "Provided excellent customer service"]
+  },
+  {
+    "role": "Cashier and Barista",
+    "organisation": "85 Degree Bakery",
+    "startDate": "May, 2024",
+    "endDate": "April, 2025",
+    "experiences": ["Provided prompt and friendly customer service while preparing coffee, tea, and bakery items", "Collaborated with team members to ensure smooth and efficient store operations"]
+  },
+  {
+    "role": "Supervisor",
+    "organisation": "Long Coffee",
+    "startDate": "May, 2020",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Supervised daily operations, ensuring high quality service and product standards",
+      "Trained new employees and supported team performance during busy hours."
+    ]
+  },
+  {
+    "role": "Marketing Intern",
+    "organisation": "Christ Rose Foundation",
+    "startDate": "October, 2023",
+    "endDate": "May, 2024",
+    "experiences": ["Assisted in creating and managing social media content to increase community engagement", "Collaborated with the team to plan events and outreach strategies to boost foundation visibility"]
+  }
+]
